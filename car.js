@@ -1,5 +1,5 @@
 // TODO: Import the parent class
-
+const Vehicle = require('./vehicle');
 // TODO: Create a `Car` class that extends the `Vehicle` class
 
 const carPassengers = [
